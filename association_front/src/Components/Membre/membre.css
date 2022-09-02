@@ -1,0 +1,30 @@
+.container_membre{
+    margin-left: 200px;
+}
+.customers {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    margin-top: 50px;
+  }
+  
+  .customers td, .customers th {
+    border: 1px solid #ddd;
+
+  }
+  
+  .customers tr:nth-child(even){background-color: #f2f2f2;}
+  
+  .customers tr:hover {background-color: #ddd;}
+  
+  .customers th {
+    text-align: center;
+    background-color: #04AA6D;
+    color: white;
+  }
+  .customers th {
+    border: 1px solid #ddd;
+    padding: 8px;}
+
+.customers td{
+    text-align: center;
+}

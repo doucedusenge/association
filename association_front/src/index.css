@@ -1,0 +1,31 @@
+/* *{
+  font-family: 'Roboto', sans-serif;
+}
+
+.container{
+  height: 100%;
+  width: 10%;
+  position: fixed;
+  background-color: cornflowerblue;
+  padding: 0;
+  margin-top: 40px;
+}
+.barre{
+  height: 40px;
+  width: 100%;
+  margin-left: 135px;
+  position: sticky;
+  background-color: cornflowerblue;
+  top: 0;
+  
+  
+} */
+
+h1{
+  margin-top: 100px;
+}
+
+section{
+  margin-top: 8rem;
+  height: 100vh;
+}
